@@ -30,7 +30,7 @@ public/
 - App.jsx: Componente principal que renderiza a mensagem.
 - Mensagem.jsx: Componente que recebe a prop nome e exibe a saudação.
 
-▶️ Como rodar o projeto
+## ▶️ Como rodar o projeto
 Instale as dependências:
 ```
 npm install
